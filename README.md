@@ -15,7 +15,10 @@
 - 2xAAA holder with wires
 - 2xAAA batteries
 - [6in paper lantern](https://www.amazon.com/Novelty-Place-White-Paper-Lanterns/dp/B016PMP7H2/)
-- [2.54mm multi-colored shunt jumpers] (https://www.amazon.com/California-JOS-Standard-Connection-Raspberry/dp/B0BRK334XH/)
+- [2.54mm multi-colored shunt jumpers](https://www.amazon.com/California-JOS-Standard-Connection-Raspberry/dp/B0BRK334XH/)
+
+### License
+Distributed under the [Apache-2.0 license](http://www.apache.org/licenses/) 
 
   **********
 <p align="center">
