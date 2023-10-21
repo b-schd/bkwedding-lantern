@@ -18,9 +18,9 @@
 - [2.54mm multi-colored shunt jumpers] (https://www.amazon.com/California-JOS-Standard-Connection-Raspberry/dp/B0BRK334XH/)
 
   **********
-<p float="left">
+<p align="center">
   <img src="https://github.com/b-schd/bkwedding-lantern/blob/main/pcb_lantern/pcb_lantern.jpg" width="500" align="middle">
-  <img src="lantern.JPG" width="500" align="middle">
+  <img src="lantern.JPG" width="300" align="middle">
 </p>
 
 
