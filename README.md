@@ -1,7 +1,7 @@
 # Wedding Lantern Project
+<img src="favor_instructions_guide_reoriented.png">
 
-<img src="https://github.com/b-schd/bkwedding-lantern/blob/main/pcb_lantern/pcb_lantern.jpg" width="500">
-
+**********
 ### Requirements 
 - [KiCad](https://www.kicad.org) >= v7.0
 - [Code Composer Studio](https://www.ti.com/tool/CCSTUDIO) >= v10
@@ -16,6 +16,12 @@
 - 2xAAA batteries
 - [6in paper lantern](https://www.amazon.com/Novelty-Place-White-Paper-Lanterns/dp/B016PMP7H2/)
 - [2.54mm multi-colored shunt jumpers] (https://www.amazon.com/California-JOS-Standard-Connection-Raspberry/dp/B0BRK334XH/)
+
+  **********
+<p float="left">
+  <img src="https://github.com/b-schd/bkwedding-lantern/blob/main/pcb_lantern/pcb_lantern.jpg" width="500" align="middle">
+  <img src="lantern.JPG" width="500" align="middle">
+</p>
 
 
 
